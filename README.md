@@ -5,9 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby 2.6.2 Rails 6.0
 
-* System dependencies
+* Rails Gem, Devise Gem
 
 * Configuration
 
