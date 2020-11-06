@@ -1,2 +1,0 @@
-class TechesController < ApplicationController
-end

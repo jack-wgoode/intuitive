@@ -1,0 +1,3 @@
+class EndUsersController < ApplicationController
+    
+end

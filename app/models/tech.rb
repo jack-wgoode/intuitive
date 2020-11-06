@@ -1,3 +1,4 @@
 class Tech < ApplicationRecord
-has_many end_users
+    has_many :tickets
+    has_many :end_users, through: :tickets
 end
