@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ticket_number: MyString
+  asset: MyString
+  issue: MyString
+  priority: MyString
+  status: MyString
+  escalated: false
+  tech_id: 
+  end_user_id: 
+
+two:
+  ticket_number: MyString
+  asset: MyString
+  issue: MyString
+  priority: MyString
+  status: MyString
+  escalated: false
+  tech_id: 
+  end_user_id: 
