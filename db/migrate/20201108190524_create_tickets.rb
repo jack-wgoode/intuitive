@@ -7,8 +7,8 @@ class CreateTickets < ActiveRecord::Migration[5.0]
       t.string :priority
       t.string :status
       t.boolean :escalated
-      t.reference :tech_id
-      t.reference :end_user_id
+      t.references :tech_id
+      t.references :end_user_id
 
       t.timestamps
     end
